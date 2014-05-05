@@ -54,30 +54,25 @@
             returnFocus: false
         });
 
-
         //Slider image
         $('.slide-image img').fullscreener();
 
-
         //Slider
-        $('.slider .slides').carouFredSel({
-            responsive: true,
-            auto: {
-                duration: 800
-            },
-            next: '.next',
-            prev: '.prev',
-            pagination: {
-                container: '.paging',
-                anchorBuilder: true
-            },
-            swipe: {
-                onTouch: true
-            }
-
-        });
-
-
+        // $('.slider .slides').carouFredSel({
+        //     responsive: true,
+        //     auto: {
+        //         duration: 800
+        //     },
+        //     next: '.next',
+        //     prev: '.prev',
+        //     pagination: {
+        //         container: '.paging',
+        //         anchorBuilder: true
+        //     },
+        //     swipe: {
+        //         onTouch: true
+        //     }
+        // });
 
         $entryPopup.css({
             left: ($(window).width() - $entryPopup.width()) / 2
@@ -99,8 +94,6 @@
 
             }
         }
-        ;
-
 
         function entriesDesktop() {
             $('.entries .row .columns:first-child ~ .columns').find('.entry-popup').addClass('center');
@@ -140,7 +133,7 @@
                 if ($this.parents('.entries').hasClass('entries') && !$this.parents('.entries').hasClass('video-entries')) {
                     //$('html, body' ).animate({scrollTop: $parentScroll});
                 }
-                ;
+
                 $popUp.css({
                     position: 'fixed',
                     top: '60px',
@@ -231,7 +224,7 @@
 
     });
 
-})(jQuery)
+})(jQuery);
 
 
 $(window).resize(function() {

@@ -148,7 +148,7 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 .slide-text-bottom { top: auto; bottom: 0; left: 50%; width: 980px; margin-left: -490px; text-align: left; }
 .slide-text-bottom h2 { font-size: 50px; color: #717275; }
 
-.slider-controls { position: absolute; bottom: 9px; left: 50%; margin-left: -49px; }
+.slider-controls { position: absolute; bottom: 40px; left: 50%; margin-left: -49px; }
 .slider-controls-inner { position: relative; }
 
 .slider .prev,
@@ -168,7 +168,8 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 /* ==========================================================================
 	#Sections
 ========================================================================== */
-.section { padding-top: 93px; min-height: 400px; background-position: center 0; background-repeat: no-repeat;  }
+.section { min-height: 400px; background-position: center 0; background-repeat: no-repeat;  }
+.section .shell { padding-top: 93px; }
 .section p { font-size: 20px; line-height: 1.3; }
 .section h2 { padding-bottom: 24px; }
 .section .section-text { width: 510px; margin: 0 auto; }
@@ -182,8 +183,8 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 
 /*.section-expertise { background-image: url(images/section-expertise.jpg); }*/
 
-.section-expertise .bg_doctores{ position: absolute; background-image: url(images/section-expertise-doctores.png); background-position: center; margin-top: -93px; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
-.section-expertise .bg_doctores_up{ position: absolute; background-image: url(images/section-expertise-doctores-up.png); background-position: center; margin-top: -93px; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; opacity: 0; }
+.section-expertise .bg_doctores{ position: absolute; background-image: url(images/section-expertise-doctores.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
+.section-expertise .bg_doctores_up{ position: absolute; background-image: url(images/section-expertise-doctores-up.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; opacity: 0; }
 .section-expertise:hover .bg_doctores{ opacity: 0; }
 .section-expertise:hover .bg_doctores_up{ opacity: 1; }
 .section-expertise .section-text { padding-top: 6px; }
@@ -193,7 +194,7 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 .section-care { background-image: url(images/section-care.jpg); }
 .section-commitment { background-image: url(images/section-commitment.jpg); background-position: right 0; }
 .section-foresight { position: relative; padding-top: 0; }
-.section-foresight .section-inner { position: relative; z-index: 2; padding-top: 80px; background: url(images/section-foresight.jpg) no-repeat center -21px; }
+.section-foresight .section-inner { position: relative; z-index: 2; background: url(images/section-foresight.jpg) no-repeat center -21px; }
 
 .section-expertise,
 .section-foresight p { font-family: 'Myriad Pro'; }
@@ -298,10 +299,13 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 .footer-middle { padding: 40px 0; background: #404040; }
 .footer-col { float: left; width: 337px; }
 .footer-col-large { width: 506px; padding-left: 25px; border-width: 0 1px; border-style: solid; border-color: #333; }
-.footer-col-small { width: 133px; padding-left: 28px;  }
+.footer-col-small { width: 137px; padding-left: 27px;  }
 
 .logo-footer { width: 252px; padding-top: 9px; }
-.logo-footer a { display: block; height: 50px; background: url(images/ret_logo2.png) no-repeat; text-indent: 100%; overflow: hidden; white-space: nowrap; background-size: 252px auto; }
+.logo-footer a { display: block; height: 50px; background: url(images/ret_logo.png) no-repeat; text-indent: 100%; overflow: hidden; white-space: nowrap; }
+@media (-o-min-device-pixel-ratio: 2 / 1), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .logo-footer a { background-image: url(images/ret_logo@2x.png); background-size: 250px auto; }
+}
 
 .address .col { float: left; }
 .address .col ~ .col { margin-left: 30px; }
@@ -349,7 +353,10 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
         transition: background-color .5s;
 }
 
-.btn-play { width: 60px; height: 60px; background: url(images/ret_arrow.png) no-repeat 0 0; background-size: 60px auto; }
+.btn-play { width: 60px; height: 60px; background: url(images/ret_arrow.png) no-repeat 0 0; }
+@media (-o-min-device-pixel-ratio: 2 / 1), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .btn-play { background-image: url(images/ret_arrow@2x.png); background-size: 60px; }
+}
 .btn-play:hover { background-position: left bottom; }
 
 .btn-play-small { width: 100%; height: 100%; background: url(images/btn-play-small.png) no-repeat center center; background-size: 35px auto;}
@@ -379,11 +386,16 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 .icon-shere { width: 19px; height: 15px; background-position: -20px -214px; }
 .icon-home { width: 17px; height: 80px; background-position: -6px -119px; }
 
-.socials [class^="icon-"] { width: 29px; height: 29px; }
+.socials [class^="icon-"] { width: 30px; height: 30px; }
 
-.icon-youtube { background: url(images/ret_yt.png) no-repeat; background-size: 29px auto; }
-.icon-twitter { background: url(images/ret_tw.png) no-repeat; background-size: 29px auto; }
-.icon-facebook { background: url(images/ret_fb.png) no-repeat; background-size: 29px auto; }
+.icon-youtube { background: url(images/ret_yt.png) no-repeat; }
+.icon-twitter { background: url(images/ret_tw.png) no-repeat; }
+.icon-facebook { background: url(images/ret_fb.png) no-repeat; }
+@media (-o-min-device-pixel-ratio: 2 / 1), (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .icon-youtube { background: url(images/ret_yt@2x.png) background-size: 30px auto; }
+  .icon-twitter { background: url(images/ret_tw@2x.png) background-size: 30px auto; }
+  .icon-facebook { background: url(images/ret_fb@2x.png) background-size: 30px auto; }
+}
 
 .icon-phone,
 .icon-mail { width: 64px; height: 60px; }

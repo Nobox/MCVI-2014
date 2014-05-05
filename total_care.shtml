@@ -3,7 +3,7 @@
     <ul class="slides">
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide5.jpg" alt="" />
+                <img src="css/images/temp/slide5.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text slide-text-bottom">

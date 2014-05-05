@@ -5,7 +5,7 @@
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide1.jpg" alt="" />
+                <img src="css/images/temp/slide1.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -22,7 +22,7 @@
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide2.jpg" alt="" />
+                <img src="css/images/temp/slide2.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -38,7 +38,7 @@
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide3.jpg" alt="" />
+                <img src="css/images/temp/slide3.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -54,7 +54,7 @@
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide4.jpg" alt="" />
+                <img src="css/images/temp/slide4.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
