@@ -1,0 +1,381 @@
+<!--#include file="ssi/header.html" -->
+<div class="slider slider-inner">
+    <ul class="slides">
+        <li class="slide">
+            <div class="slide-image">
+                <img src="css/images/temp/slide7.jpg" alt="" width="1279" height="400" />
+            </div><!-- /.slide-image -->
+
+            <div class="slide-text slide-text-bottom">
+                <h2>Total<strong>Foresight</strong></h2>
+            </div><!-- /.slide-text -->
+        </li><!-- /.slide -->
+    </ul><!-- /.slides -->
+
+    <div class="slider-controls">
+        <div class="slider-controls-inner">
+            <div class="paging"></div><!-- /.paging -->
+
+            <a href="#" class="prev">Prev Slide</a>
+            <a href="#" class="next">Next Slide</a>
+        </div><!-- /.slider-controls-inner -->
+    </div><!-- /.slider-controls -->
+
+</div><!-- /.slider -->
+
+<div class="main">
+    <div class="content">
+        <div class="article">
+            <div class="row">
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video1.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+
+                <div class="small-12 medium-9 columns">
+                    <div class="article-text">
+                        <div class="article-text-inner">
+                            <h5>Know the warning signs. </h5>
+
+                            <p>Listen to your heart. And your body. If you have any questions or concerns about the physical signs of cardiac health issues, we encourage you to use this guide as a quick point of reference only. It’s not a diagnosis, but rather a source of information about some of the more common symptoms that can be associated with heart issues.  </p>
+                            <p> IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                            <p>We’re in this together, and we care about your heart and health. Be informed and prepare yourself before you experience any of these symptoms. </p>
+                        </div><!-- /.article-text-inner -->
+                    </div><!-- /.article-text -->
+                </div><!-- /.medium-9 columns -->
+            </div><!-- /.row -->
+
+            <span class="article-separator"></span>
+        </div><!-- /.article -->
+
+        <div class="entries text-entries">
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-1">
+                        <h6>Chest pain</h6>
+                        <p>Chest pain is a leading indicator of potential heart issues. Chest pain is any kind of discomfort or pain that can be felt anywhere along the front of your body, as well as around your neck and upper <br />abdomen.   </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-2">
+                        <h6>Chest Pressure </h6>
+                        <p>Chest pressure is a leading indicator of potential heart issues. Chest pressure is any kind of discomfort or pain that can be felt anywhere along the front of your body, including your neck and upper <br />abdomen. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-3">
+                        <h6>Shortness of breath</h6>
+                        <p>While shortness of breath has many different causes, it’s also associated with heart issues. These issues include heart attacks, congenital heart disease, heart rhythm disturbances and heart <br />failure. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-4">
+                        <h6>Palpitations</h6>
+                        <p>When it feels like your heart is pounding or racing, those sensations or feelings are referred to as palpitations. Normally palpitations are not serious and can be the result of a number of everyday causes, ranging from exercise to caffeine.  </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-5">
+                        <h6>Cold Extremities</h6>
+                        <p>Cold extremities occur when circulation issues, including constricted or slightly obstructed blood vessels, cause a reduction of blood passage in the skin. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-6">
+                        <h6>Numb Extremities</h6>
+                        <p>Numb extremities, as well as a tingling feeling in those same areas, are characterized by abnormal losses of feeling, most often in the hands, arms, legs and feet. There are a host of different reasons why you could be experiencing numb extremities. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div>
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-7">
+                        <h6>High Blood Sugar</h6>
+                        <p>High blood sugar levels create an elevated risk of heart issues for anyone experiencing them over long periods of time, whether they have diabetes or not. </p>
+                        <a href="#" class="more">more</a> </div>
+                    <!-- /.entry entry-text -->
+                </div>
+                <!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-8">
+                        <h6>Vision Changes</h6>
+                        <p>Vision changes such as blurred vision, seeing “halos” and having blind spots can be caused by a large number of conditions. They can also be indicators of underlying heart issues. </p>
+                        <a href="#" class="more">more</a> </div>
+                    <!-- /.entry entry-text -->
+                </div>
+                <!-- /.medium-6 columns -->
+            </div>
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-9">
+                        <h6>Speech Difficulties</h6>
+                        <p>Difficulties in speech, including slurred speech, can be directly correlated to serious heart issues such as a stroke. These difficulties can also be attributed to blood loss to the muscles that control <br />speech. </p>
+                        <a href="#" class="more">more</a></div>
+                    <!-- /.entry entry-text -->
+                </div>
+                <!-- /.medium-6 columns --><!-- /.medium-6 columns -->
+            </div>
+            <!-- /.row --><!-- /.desease-foot -->
+            <div class="popup-overlay"></div><!-- /.popup-overlay -->
+
+            <div class="entry-popup over-1">
+                <div class="entry-popup-text">
+                    <h5>Chest pain</h5>
+
+                    <p>Chest pain is a leading indicator of potential heart issues. Chest pain is any kind of discomfort or pain that can be felt anywhere along the front of your body, as well as around your neck and upper abdomen. The most common types of chest pain range from tightness to pressure and general discomfort. While chest pain can be caused by a number of factors and many have nothing to do with cardiac issues, you should not take any risks if you experience it. In worst-case scenarios, chest pain can be an immediate precursor to a serious heart issue, such as a heart attack or stroke. </p>
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+
+                    <div class="btns">
+                        <!--<a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>-->
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div>
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-2">
+                <div class="entry-popup-text">
+                    <h5>Chest Pressure</h5>
+
+                    <p>Chest pressure is a leading indicator of potential heart issues. Chest pressure is any kind of discomfort or pain that can be felt anywhere along the front of your body, including your neck and upper abdomen. While chest pressure can be caused by a number of different factors and many have nothing to do with cardiac issues, you should not take any risks if you are experiencing it. In worst-case scenarios, chest pain can be an immediate precursor to a serious heart issue, such as a heart attack or stroke. </p>
+
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+
+                    <div class="btns"><a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-3">
+                <div class="entry-popup-text">
+                    <h5>Shortness of breath</h5>
+
+                    <p>While shortness of breath has many different causes, it’s also associated with heart issues. These issues include heart attacks, congenital heart disease, heart rhythm disturbances and heart failure. When these conditions cause shortness of breath, it’s often because your heart is unable to provide enough oxygen to body parts such as your brain, muscles or other body organs. </p>
+
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+
+                    <div class="btns"><a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-4">
+                <div class="entry-popup-text">
+                    <h5>Palpitations</h5>
+
+                    <p>When it feels like your heart is pounding or racing, those sensations or feelings are referred to as palpitations. Normally palpitations are not serious and can be the result of a number of everyday causes, ranging from exercise to caffeine. On occasion, however, they can be a sign of abnormal heart rhythm brought about by issues affecting the heart.</p>
+
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+
+                    <div class="btns"><a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-5">
+                <div class="entry-popup-text">
+                    <h5>Cold Extremities</h5>
+
+                    <p>Cold extremities occur when circulation issues, including constricted or slightly obstructed blood vessels, cause a reduction of blood passage in the skin. In extreme cases, this feeling may be accompanied by changes in skin color and a throbbing or buzzing feeling. While there are many different non-cardiac reasons for the feeling of cool extremities, they can be an indicator of underlying heart issues, such as coronary heart disease.</p>
+
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+
+                    <div class="btns"><a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-6">
+                <div class="entry-popup-text">
+                    <h5>Numb Extremities</h5>
+
+                    <p>Numb extremities, as well as a tingling feeling in those same areas, are characterized by abnormal losses of feeling, most often in the hands, arms, legs and feet. There are a host of different reasons why you could be experiencing numb extremities. If a heart issue causes it, the most common reason is due to a hardening of the arteries, which leads to a lack of proper blood flow to these areas. This can be an early sign of greater future heart problems, including a stroke.</p>
+
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+
+                    <div class="btns"><a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div>
+            <div class="entry-popup over-7">
+                <div class="entry-popup-text">
+                    <h5>High Blood Sugar</h5>
+                    <p>High blood sugar levels create an elevated risk of heart issues for anyone experiencing them over long periods of time, whether they have diabetes or not. When left untreated, high blood sugar can slowly damage blood vessels throughout the body, leading to a host of major potential heart complications. For people with diabetes, the risk of heart disease is nearly twice that of a person without diabetes. </p>
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+                    <div class="btns"><a href="#" class="btn-close">Close</a> </div>
+                    <!-- /.btns -->
+                </div>
+                <!-- /.entry-popup-text -->
+            </div>
+            <div class="entry-popup over-8">
+                <div class="entry-popup-text">
+                    <h5>Vision Changes</h5>
+                    <p>Vision changes such as blurred vision, seeing “halos” and having blind spots can be caused by a large number of conditions. They can also be indicators of underlying heart issues. These potential heart issues include strokes, blood loss or restriction of blood flow to parts of the brain and an inflammation of an artery in the brain that supplies blood to the eyes.</p>
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+                    <div class="btns"><a href="#" class="btn-close">Close</a> </div>
+                    <!-- /.btns -->
+                </div>
+                <!-- /.entry-popup-text -->
+            </div>
+            <div class="entry-popup over-9">
+                <div class="entry-popup-text">
+                    <h5>Speech Difficulties</h5>
+                    <p>Difficulties in speech, including slurred speech, can be directly correlated to serious heart issues such as a stroke. These difficulties can also be attributed to blood loss to the muscles that control speech. If you’re experiencing loss in speech control that you have no explanation for, please call 911 immediately. Do not delay. </p>
+                    <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a></p>
+                    <div class="btns"><a href="#" class="btn-close">Close</a> </div>
+                    <!-- /.btns -->
+                </div>
+                <!-- /.entry-popup-text -->
+            </div>
+            <!-- /.entry-popup -->
+
+        </div><!-- /.entries -->
+        <div class="section section-gray section-commitment">
+            <div class="shell">
+                <div class="section-text section-text-left">
+                    <h2>Total<strong>Commitment</strong></h2>
+                    <p>What it takes. That’s what we offer. Explore our comprehensive list of services and programs for treating heart conditions.</p>
+
+                    <div class="btns">
+                        <a href="total_commitment.shtml" class="btn btn-alert">See Our Services</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.section-text -->
+            </div><!-- /.shell -->
+        </div><!-- /.section section-gray section-commitment -->
+    </div><!-- /.content -->
+</div><!-- /.main -->
+
+<div class="footer">
+    <div class="footer-top">
+
+    </div><!-- /.footer-top -->
+    <div class="footer-middle">
+        <div class="shell">
+            <div class="footer-cols clearfix">
+                <div class="footer-col">
+                    <div class="logo-footer">
+                        <a href="home.shtml">Memorial Cardiac and Vascular Institute</a>
+                    </div><!-- /.logo-footer -->
+                </div><!-- /.footer-col footer-col1of3 -->
+
+                <div class="footer-col footer-col-large">
+                    <div class="address">
+                        <div class="cols clearfix">
+                            <div class="col col1of2">
+                                <h6>Memorial Regional Hospital</h6>
+                                <p>3501 Johnson Street Hollywood, FL 33021</p>
+                            </div><!-- /.col1of2 -->
+
+                            <div class="col col1of2">
+                                <h6>Memorial Hospital West</h6>
+                                <p>703 North Flamingo Road Pembroke Pines, FL 33024</p>
+                            </div><!-- /.col1of2 -->
+                        </div><!-- /.cols -->
+                    </div><!-- /.address -->
+                </div><!-- /.footer-col footer-col1of3 -->
+
+                <div class="footer-col footer-col-small">
+                    <div class="socials">
+                        <h6>Follow us</h6>
+                        <a target="_blank" href="http://www.facebook.com/MemorialHealthcareSystem" class="icon-facebook">facebook</a>
+                        <a target="_blank" href="http://twitter.com/#!/mhshospital" class="icon-twitter">twitter</a>
+                        <a target="_blank" href="http://www.youtube.com/memorialhealthcare" class="icon-youtube">youtube</a>
+                    </div><!-- /.socials -->
+                </div><!-- /.footer-col footer-col1of3 -->
+            </div><!-- /.footer-cols clearfix -->
+        </div><!-- /.shell -->
+    </div><!-- /.footer-middle -->
+
+    <div class="footer-bottom">
+        <div class="shell">
+            <p>Start your journey into TotalHeart Care by taking our in-depth risk assessment now. Your heart will thank you.</p>
+
+            <div class="btns">
+                <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn btn-default lightbox-footer">Take a risk assessment</a>
+            </div><!-- /.btns -->
+        </div><!-- /.shell -->
+    </div><!-- /.footer-bottom -->
+</div><!-- /.footer -->
+
+<div class="footer-mobile">
+    <div class="btns">
+        <a href="#" class="btn"><i class="icon-phone"></i></a>
+        <a href="#" class="btn"><i class="icon-mail"></i></a>
+        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn btn-link">Take a risk assessment test</a>
+    </div><!-- /.btns -->
+</div><!-- /.footer-mobile -->
+
+<div class="callout">
+    <div class="callout-inner">
+        <div class="callout-head">
+            <p><span>Call us</span></p>
+            <p><strong>855-400-6284</strong></p>
+        </div><!-- /.callout-head -->
+
+        <div class="callout-foot">
+            <a href="http://www.memorialcardiac.com/html/about-us/contactus.aspx">Contact Us</a>
+        </div><!-- /.callout-foot -->
+
+        <span class="callout-separator">or</span>
+    </div><!-- /.callout-inner -->
+</div><!-- /.callout -->
+
+<span class="mobile-overlay"></span>
+</div><!-- /.wrapper -->
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/foundation.min.js"></script>
+<script type="text/javascript">
+    $(document).foundation();
+</script>
+<script type="text/javascript" src="js/jquery.fullscreener.min.js"></script>
+<script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<!-- ADDTHIS BUTTON BEGIN -->
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=rarija"></script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    var addthis_config = {'ui_language': 'es', 'services_expanded': 'facebook, twitter, gmail, print, stumbleupon, tumblr'};
+    /*]]>*/
+</script>
+<!-- ADDTHIS BUTTON END -->
+</body>
+</html>

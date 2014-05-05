@@ -1,0 +1,360 @@
+<!--#include file="ssi/header.html" -->
+<div class="slider slider-inner">
+    <ul class="slides">
+        <li class="slide">
+            <div class="slide-image">
+                <img src="css/images/temp/slide4.jpg" alt="" width="1280" height="400" />
+            </div><!-- /.slide-image -->
+
+            <div class="slide-text slide-text-bottom">
+                <h2>Total<strong>Expertise</strong></h2>
+            </div><!-- /.slide-text -->
+        </li><!-- /.slide -->
+    </ul><!-- /.slides -->
+
+    <div class="slider-controls">
+        <div class="slider-controls-inner">
+            <div class="paging"></div><!-- /.paging -->
+
+            <a href="#" class="prev">Prev Slide</a>
+            <a href="#" class="next">Next Slide</a>
+        </div><!-- /.slider-controls-inner -->
+    </div><!-- /.slider-controls -->
+
+</div><!-- /.slider -->
+
+<div class="main">
+    <div class="content">
+        <div class="article">
+            <div class="row">
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video5.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+
+                <div class="small-12 medium-9 columns">
+                    <div class="article-text">
+                        <div class="article-text-inner">
+                            <h5>Your Health. Our Team. Superior Care.</h5>
+                            <p>Total trust. That is at the core of our cardiac team, led by well-established, published leaders with decades of diverse experience. While our team is extremely knowledgeable, above all else, we care. About you.  About your health. And about working together to deliver the superior heart care that’s specifically right for you.</p>
+                        </div><!-- /.article-text-inner -->
+                    </div><!-- /.article-text -->
+                </div><!-- /.medium-9 columns -->
+            </div><!-- /.row -->
+
+            <span class="article-separator"></span>
+        </div><!-- /.article -->
+
+        <div class="entries">
+            <div class="row">
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-8">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor8.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>RICHARD</span> PERRYMAN, MD</h6>
+                            <p>Medical Director, Memorial Cardiac and Vascular Institute</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-7">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor7.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>FRANK MICHAEL</span> CORTELLI, MD</h6>
+                            <p>Chief of Adult Cardiac Surgery</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-5">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor5.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>JUAN</span> PLATE, MD, FACS</h6>
+                            <p>Director of the Comprehensive Aortic Center</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+            </div><!-- /.row -->
+
+            <div class="row">
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-6">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor6.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>LANCE</span> COHEN, MD, FCCP</h6>
+                            <p>Intensivist - Medical Director, Heart Surgical Unit</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-3">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor3.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>IOANA</span> DUMITRU, MD</h6>
+                            <p>Medical Director, Adult Cardiac Transplant, Heart Failure and Cardiomyopathy </p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-2">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor2.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>ENRIQUE</span> GONGORA, MD</h6>
+                            <p>Medical Director, Adult Cardiac Surgical Transplant Program</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+            </div><!-- /.row -->
+
+            <div class="row">
+                <div class="small-12 medium-4 columns">
+                    <div class="entry totalex" rel="over-9">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor9.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>SEAN D.</span> O'DONNELL, MD, FACS</h6>
+                            <p>Medical Director, Vascular and Endovascular Surgery</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+
+                <div class="small-12 medium-4 columns totalex">
+                    <div class="entry totalex" rel="over-4">
+                        <div class="entry-image">
+                            <img src="css/images/temp/doctor4.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>JEFFREY A.</span> HERTZ, MD</h6>
+                            <p>Vascular Surgeon</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+
+                <div class="small-12 medium-4 columns">
+                    <div class="entry totalex" rel="over-1">
+                        <div class="entry-image totalex">
+                            <img src="css/images/temp/doctor1.jpg" alt="" />
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6><span>ARTHUR</span> PALAMARA, MD, FACS</h6>
+                            <p>Vascular Surgeon</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-4 columns -->
+            </div><!-- /.row -->
+
+            <div class="popup-overlay"></div><!-- /.popup-overlay -->
+
+            <div class="entry-popup over-1 clearfix">
+                <div class="entry-popup-image">
+                    <img src="css/images/doctores/arthur-palamara.jpg" alt="" />
+                </div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>ARTHUR PALAMARA, MD, FACS </h5>
+                    <p class="meta">Vascular Surgeon </p>
+                    <!-- /.meta -->
+
+                    <p>A Florida delegate to the American Medical Association and former vice president of the Florida Medical Association, Dr. Arthur Palamara has served the South Florida community for more than 34 distinguished years. His extensive experience has enabled him to perform thousands of cardiac-related surgeries, ranging from carotid endarterectomies and open and endovascular abdominal aortic aneurysm repairs, to shunt procedures for dialysis and complex leg vascular reconstructions. </p>
+
+                    <p>Learn more about Dr. Palamara’s total expertise </p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/arthur-palamara.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-2 clearfix">
+                <div class="entry-popup-image"><img src="css/images/doctores/enrique-gongora.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>ENRIQUE GONGORA, MD</h5>
+                    <p class="meta">Medical Director, Adult Cardiac Surgical Transplant Program</p>
+                    <!-- /.meta -->
+
+                    <p>A board-certified cardiac surgeon, Dr. Enrique Gongora has forged a rich path as a leader in the field of cardiac care. He has previously served as Director of Thoracic Transplantation at Scott &amp; White Clinic-Texas A &amp; M Health Science Center College of Medicine. He was also Surgical Director of Heart Transplantation and Mechanical Circulatory Support at Drexel University College of Medicine, Hahnemann University Hospital. </p>
+
+                    <p>Learn more about Dr. Gongora’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/enrique-gongora.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-3 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/iona-dumitru.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>IOANA DUMITRU, MD</h5>
+                    <p class="meta">Medical Director, Adult Cardiac Transplant, Heart Failure and Cardiomyopathy </p><!-- /.meta -->
+
+                    <p>A board-certified advanced heart failure and transplant cardiologist, Dr. Ioana Dumitru’s intense training took her from Romania to Chicago, with stops in Nebraska and Washington along the way. As the founder and Medical Director of the Heart Failure and Cardiac Transplant Program at the University of Nebraska Medical Center in Omaha, she brings a wealth of real-world experience to Memorial Healthcare System. </p>
+
+                    <p>Learn more about Dr. Dumitru’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/ioana-dumitru.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-4 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/jeffrey-hertz.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>JEFFREY A. HERTZ, MD</h5>
+                    <p class="meta">Vascular Surgeon</p><!-- /.meta -->
+
+                    <p>Board-certified by the American Board of Surgery in General and Vascular Surgery, Dr. Jeffrey A. Hertz dedicated his career to serving South Florida after completing his training at both the Universities of Miami and Florida, along with stops in Kentucky and Arizona. He joined the staff of Memorial Cardiac and Vascular Institute in 2012 after nine years of private practice in Broward. </p>
+
+                    <p>Learn more about Dr. Hertz’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/jeffrey-hertz.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-5 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/juan-plate.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>JUAN PLATE, MD, FACS</h5>
+                    <p class="meta">Director of the Comprehensive Aortic Center</p><!-- /.meta -->
+
+                    <p>A board-certified thoracic and general surgeon, Dr. Juan Plate has an extensive background in research studies in cardiothoracic surgery. His career has taken him from New Jersey to Washington, D.C., and has allowed him the opportunity to accumulate a masterful knowledge of thoracic surgery. He served as an assistant professor in the cardiothoracic surgery division in the Robert Wood Johnson Medical School at the University of Medicine and Dentistry of New Jersey. </p>
+
+                    <p>Learn more about Dr. Plate’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/juan-plate.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-6 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/lance-cohen.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>LANCE COHEN, MD, FCCP</h5>
+                    <p class="meta">Intensivist - Medical Director, Heart Surgical Unit</p><!-- /.meta -->
+
+                    <p>Internationally educated, Dr. Lance Cohen’s success in his advanced training program landed him a three-year fellowship at the prestigious Barnes-Jewish Hospital and Washington University School of Medicine. He is also highly trained in internal medicine and has in-depth experience in postoperative cardiothoracic management. </p>
+
+                    <p>Learn more about Dr. Cohen’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/lance-cohen.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-7 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/michael-cortelli.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>MICHAEL CORTELLI, MD</h5>
+                    <p class="meta">Chief of Adult Cardiac Surgery</p><!-- /.meta -->
+
+                    <p>A cardiovascular and board-certified thoracic surgeon, Dr. Michael Cortelli is a member of the Florida Society of Thoracic and Cardiovascular Surgeons and the Society of Thoracic Surgeons. His strong background covers a wide range of diverse medical experience. Consistently recognized throughout his career for his outstanding work, he has participated in thousands of cardiac operations. </p>
+
+                    <p>Learn more about Dr. Cortelli’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/michael-cortelli.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-8 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/richard-perryman.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>RICHARD PERRYMAN, MD</h5>
+                    <p class="meta">Medical Director, Memorial Cardiac and Vascular Institute</p><!-- /.meta -->
+
+                    <p>Frequently cited in “America’s Top Doctors,” internationally acclaimed surgeon Dr. Richard Perryman is an established leader in the South Florida medical community. Over the course of his rich career, he has served as a lecturer, administrator, researcher and author, as well as been active in numerous professional and philanthropic organizations.</p>
+
+                    <p>Get to fully know Dr. Perryman’s total expertise </p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/richard-perryman.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+            <div class="entry-popup over-9 clearfix">
+                <div class="entry-popup-image"><img src="css/images/Doctores/Sean-o-donnell.jpg" alt="" /></div><!-- /.entry-popup-image -->
+
+                <div class="entry-popup-text">
+                    <h5>SEAN D. O'DONNELL, MD, FACS</h5>
+                    <p class="meta">Medical Director of Vascular and Endovascular Surgery</p><!-- /.meta -->
+
+                    <p>Board-certified in surgery and vascular surgery with research interests including endovascular management of aortic dissections and arterial trauma, retired U.S. Army Medical Corps Colonel Dr. Sean D. O’Donnell has led a distinguished military career. He’s earned a Bronze Star for service during the Gulf War, two Meritorious Service Medals and two Army Achievement Medals, including commendation for treating Pentagon casualties after the September 11, 2001 attacks.</p>
+
+                    <p> Learn more about Dr. O’Donnell’s total expertise:</p>
+
+                    <div class="btns">
+                        <a href="http://www.memorialcardiac.com/html/our-physicians/sean-odonnell.aspx" target="_blank" class="btn btn-alert btn-alert-small">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+
+        </div><!-- /.entries -->
+    </div><!-- /.content -->
+</div><!-- /.main -->
+<!--#include file="ssi/footer.html" -->

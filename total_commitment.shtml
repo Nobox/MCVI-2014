@@ -1,0 +1,385 @@
+<!--#include file="ssi/header.html" -->
+<div class="slider slider-inner">
+    <ul class="slides">
+        <li class="slide">
+            <div class="slide-image">
+                <img src="css/images/temp/slide6.jpg" alt="" />
+            </div><!-- /.slide-image -->
+
+            <div class="slide-text slide-text-bottom">
+                <h2>Total<strong>Commitment</strong></h2>
+            </div><!-- /.slide-text -->
+        </li><!-- /.slide -->
+    </ul><!-- /.slides -->
+
+    <div class="slider-controls">
+        <div class="slider-controls-inner">
+            <div class="paging"></div><!-- /.paging -->
+
+            <a href="#" class="prev">Prev Slide</a>
+            <a href="#" class="next">Next Slide</a>
+        </div><!-- /.slider-controls-inner -->
+    </div><!-- /.slider-controls -->
+
+</div><!-- /.slider -->
+
+<div class="main">
+    <div class="content">
+        <div class="article">
+            <div class="row">
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video7.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+
+                <div class="small-12 medium-9 columns">
+                    <div class="article-text">
+                        <div class="article-text-inner">
+                            <h5 class="comm">Total coverage for all heart conditions. Comprehensive services you can count on.</h5>
+                            <p class="comm">We take heart in successfully treating yours. To do so, we offer a wide array of services and world-class expertise right here in South Florida. This allows us to give you the high level of treatment your heart deserves.</p>
+                        </div><!-- /.article-text-inner -->
+                    </div><!-- /.article-text -->
+                </div><!-- /.medium-9 columns -->
+            </div><!-- /.row -->
+
+            <span class="article-separator"></span>
+        </div><!-- /.article -->
+
+        <div class="entries text-entries">
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-1">
+                        <h6>Adult Congenital Heart Disease</h6>
+                        <p>Today, there are 1 million people with adult congenital heart disease. And until recently, South Florida residents with the disease did not have access to a comprehensive congenital heart center offering coordinated care focused on their  needs. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-2">
+                        <h6>Aortic Center </h6>
+                        <p>Reducing risk for patients with aortic disease by focusing on prevention and early diagnosis, offering minimally invasive endovascular treatments, medical management and surgical treatment – that is the goal of the TotalHeart Aortic Center. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-3">
+                        <h6>Cardiac Imaging </h6>
+                        <p>From simple diagnostic tests to complex examinations, we offer a unique approach to acquiring, processing and interpreting your cardiac imaging study in order to create an optimum environment for the delivery of superior cardiac care. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-4">
+                        <h6>Cardiac Rehabilitation </h6>
+                        <p>Living with cardiac or pulmonary disease. Learning to live with a recent cardiac or pulmonary disease diagnosis. Simply being proactive in order to prevent cardiac or pulmonary diseases. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-5">
+                        <h6>Cardiac Surgery </h6>
+                        <p>Our innovative cardiac surgical team specializes in adult cardiac surgery, including heart valve repair, coronary artery repair and surgical treatment of atrial fibrillation. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-6">
+                        <h6>Cardiology </h6>
+                        <p>We’re proud to feature a highly skilled cardiology staff of specialists that includes clinical and interventional cardiologists, electrophysiologists, interventional radiologists, interventional neuroradiologists, cardiac and vascular surgeons, thoracic surgeons, cardiac anesthesiologists, pediatric interventional cardiologists and pediatric cardiac surgeons. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-7">
+                        <h6>Cardiomyopathy/Heart Failure </h6>
+                        <p>When your heart muscle measurably weakens or deteriorates for any reason, this is referred to as cardiomyopathy, which literally means “heart muscle disease.” </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-8">
+                        <h6>Electrophysiology </h6>
+                        <p>The specialized methods of diagnosing and treating severe, troublesome cardiac arrhythmias (irregularities of heart rhythm) are at the heart of cardiac electrophysiology, a subspecialty of <br />cardiology. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-9">
+                        <h6>Interventional Cardiology </h6>
+                        <p>With more than 4,500 diagnostic cardiac catheterizations and percutaneous coronary interventions performed annually, our Rapid Response Heart Attack Team is among the busiest in South <br />Florida. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-10">
+                        <h6>Peripheral Vascular Intervention </h6>
+                        <p>Peripheral Vascular Intervention removes build-up in arteries and restores healthy blood flow to the heart and throughout the body. The most common types of procedures involve angioplasty and the stenting of blood vessels. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-11">
+                        <h6>TAVR</h6>
+                        <p>Groundbreaking. Minimally invasive. Potentially lifesaving. Introducing transcatheter aortic valve replacement (TAVR), a new option for elderly or high-risk patients who could not otherwise tolerate the invasiveness of open-heart surgery. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-12">
+                        <h6>Valve Clinic </h6>
+                        <p>Heart valve disease. It can be hereditary, develop over time or come about due to an infection. However it comes, it must be properly diagnosed and treated in time before it can cause serious damage or even prove fatal. </p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+
+            <div class="row collapse">
+                <div class="small-12 medium-6 columns">
+                    <div class="entry text-entry" rel="over-13">
+                        <h6>Vascular Surgery </h6>
+                        <p>Home to advanced diagnoses and comprehensive treatment of diseases of the circulatory system (arteries, veins and lymphatics), our superb Vascular Institute facilities allow our expert vascular surgeons to work closely with other specialists to care for patients with common vascular diseases.</p>
+                        <a href="#" class="more">more</a>
+                    </div><!-- /.entry entry-text -->
+                </div><!-- /.medium-6 columns -->
+                <div class="small-12 medium-6 columns">
+                    &nbsp;
+                </div><!-- /.medium-6 columns -->
+            </div><!-- /.row -->
+            <div class="popup-overlay"></div><!-- /.popup-overlay -->
+
+            <div class="entry-popup over-1">
+                <div class="entry-popup-text">
+                    <h5>Adult Congenital Heart Disease</h5>
+
+                    <p>Today, there are 1 million people with adult congenital heart disease. And until recently, South Florida residents with the disease did not have access to a comprehensive congenital heart center offering coordinated care focused on their unique needs. Enter Memorial Cardiac and Vascular Institute. The team members at Memorial Adult Congenital Heart Defects Clinic are experts in congenital anomalies of the heart. In fact, the physicians at Memorial Adult Congenital Heart Defects Clinic have pioneered many of the advances in corrective congenital procedures. The program's primary mission is to provide comprehensive, multidisciplinary care for the growing population of adults with adult congenital heart disease. </p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-2">
+                <div class="entry-popup-text">
+                    <h5>Aortic Center </h5>
+
+                    <p>Reducing risk for patients with aortic disease by focusing on prevention and early diagnosis, offering minimally invasive endovascular treatments, medical management and surgical treatment – that is the goal of the TotalHeart Aortic Center. There are many types of aortic diseases, which is why our highly skilled team of specialists comes from a diverse set of backgrounds.  Our anesthesiologists, cardiologists, cardiothoracic surgeons, neurologists, radiologists, specialist nurses and vascular/endovascular surgeons all work together to provide world-class treatment for every aspect of aortic care.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-3">
+                <div class="entry-popup-text">
+                    <h5>Cardiac Imaging </h5>
+
+                    <p>From simple diagnostic tests to complex examinations, we offer a unique approach to acquiring, processing and interpreting your cardiac imaging study in order to create an optimum environment for the delivery of superior cardiac care. Our advanced equipment, including cardiac magnetic resonance imaging (MRI), allows us to capture precision images that enable our cardiologists to accurately identify and address existing cardiac problems. Employing a total team approach, all test results are reviewed by a multidisciplinary cardiac team of fellowship-trained cardiac radiologists and/or cardiologists in order to accurately identify and address any underlying conditions you may have.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-4">
+                <div class="entry-popup-text">
+                    <h5>Cardiac Rehabilitation </h5>
+
+                    <p>Living with cardiac or pulmonary disease. Learning to live with a recent cardiac or pulmonary disease diagnosis. Simply being proactive in order to prevent cardiac or pulmonary diseases. Whatever your condition may be, our hospital-based fitness and cardiac rehabilitation centers offer customized, medically supervised exercise to help you with health challenges in your efforts to achieve safe, effective workouts. Additionally, we provide a strong educational base in one-on-one and group settings to work with you on important topics such as nutrition, behavior modification and risk reduction.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-5">
+                <div class="entry-popup-text">
+                    <h5>Cardiac Surgery </h5>
+
+                    <p>Our innovative cardiac surgical team specializes in adult cardiac surgery, including heart valve repair, coronary artery repair and surgical treatment of atrial fibrillation. In addition, our cardiac surgical team is among the most experienced in Florida at performing the maze procedure, which is used to treat atrial fibrillation. By combining our highly-skilled staff with advanced, leading-edge heart surgery techniques, we have been able to deliver real benefits and results for our patients, including surgical procedures that result in faster recovery times and decrease the chance of infection and need for blood infusions.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-6">
+                <div class="entry-popup-text">
+                    <h5>Cardiology </h5>
+
+                    <p>We’re proud to feature a highly skilled cardiology staff of specialists that includes clinical and interventional cardiologists, electrophysiologists, interventional radiologists, interventional neuroradiologists, cardiac and vascular surgeons, thoracic surgeons, cardiac anesthesiologists, pediatric interventional cardiologists and pediatric cardiac surgeons. These specialists work together as a multidisciplinary team using sophisticated diagnostic equipment and facilities dedicated solely to cardiovascular care. We emphasize evidence-based clinical practice guidelines and have developed protocols and pathways similar to a pilot's checklist to help ensure adherence to the highest standards. And our care is patient-focused, safe, compassionate, coordinated and comprehensive.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-7">
+                <div class="entry-popup-text">
+                    <h5>Cardiomyopathy/Heart Failure </h5>
+
+                    <p>When your heart muscle measurably weakens or deteriorates for any reason, this is referred to as cardiomyopathy, which literally means “heart muscle disease.” This leads to the heart being unable to properly pump, which then leads to a host of heart conditions, including heart failure. Our specialized, multidisciplinary team uses sophisticated diagnostic equipment and facilities to immediately treat all types of heart failure.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-8">
+                <div class="entry-popup-text">
+                    <h5>Electrophysiology </h5>
+
+                    <p>The specialized methods of diagnosing and treating severe, troublesome cardiac arrhythmias (irregularities of heart rhythm) are at the heart of cardiac electrophysiology, a subspecialty of cardiology. These treatments are for those cases that can’t be managed with medication and for patients who can’t tolerate severe medications. We utilize ablation techniques, device-based therapy and sophisticated intracardiac mapping techniques to deliver this care. Additionally, our cardiac electrophysiologists work closely with each patient's clinical cardiologist and/or primary care physician, and are skilled at choosing the appropriate arrhythmia treatment for each individual patient.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-9">
+                <div class="entry-popup-text">
+                    <h5>Interventional Cardiology </h5>
+
+                    <p>With more than 4,500 diagnostic cardiac catheterizations and percutaneous coronary interventions performed annually, our Rapid Response Heart Attack Team is among the busiest in South Florida. We provide emergency treatments such as angioplasty and stenting to open acutely obstructed coronary arteries in select heart attack patients 24 hours a day, 7 days a week. These advanced treatments are considered to be the most effective means of preserving heart muscle function when &quot;minutes mean muscle.&quot;</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-10">
+                <div class="entry-popup-text">
+                    <h5>Peripheral Vascular Intervention </h5>
+
+                    <p>Peripheral Vascular Intervention removes build-up in arteries and restores healthy blood flow to the heart and throughout the body. The most common types of procedures involve angioplasty and the stenting of blood vessels. Our team of interventional radiologists, interventional neuroradiologists, interventional cardiologists and specially trained vascular surgeons are experts at successfully undertaking these procedures. And our program is among the most active and advanced in all of South Florida.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-11">
+                <div class="entry-popup-text">
+                    <h5>TAVR </h5>
+
+                    <p>Groundbreaking. Minimally invasive. Potentially lifesaving. Introducing transcatheter aortic valve replacement (TAVR), a new option for elderly or high-risk patients who could not otherwise tolerate the invasiveness of open-heart surgery. We’re one of a select group of medical centers in the country, and one of the first in South Florida to offer this technically advanced option for those of you who qualify. Our multidisciplinary 'heart team' approach employs an experienced and diverse group of Cardiac Surgeons, Interventional Cardiologists, Cardiologists and Anesthesiologists to perform this cutting-edge heart surgery.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-12">
+                <div class="entry-popup-text">
+                    <h5>Valve Clinic </h5>
+
+                    <p>Heart valve disease. It can be hereditary, develop over time or come about due to an infection. However it comes, it must be properly diagnosed and treated in time before it can cause serious damage or even prove fatal. That’s why we built one of Broward County’s only comprehensive cardiac care valve clinics, and staffed it with our top cardiac experts, including Cardiologists, Cardiac Surgeons and Interventional Cardiologists. We combine cutting-edge technology with a wealth of experience, to diagnose, treat and care for a wide range of valvular heart disease conditions.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+            <div class="entry-popup over-13">
+                <div class="entry-popup-text">
+                    <h5>Vascular Surgery </h5>
+
+                    <p>Home to advanced diagnoses and comprehensive treatment of diseases of the circulatory system (arteries, veins and lymphatics), our superb Vascular Institute facilities allow our expert vascular surgeons to work closely with other specialists to care for patients with common vascular diseases.</p>
+                    <p>Learn the entire story of how we treat adult congenital heart diseases <a href="http://www.memorialcardiac.com/html/medical-services.aspx" target="_blank" class="btn btn-alert btn-alert-normal">Here</a>.  </p>
+                    <p>To find a Memorial doctor, please call 855-400-6284.  </p>
+                    <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click: </p>
+
+                    <div class="btns">
+                        <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="lightbox-footer btn btn-alert btn-alert-normal">Here</a>
+
+                        <a href="#" class="btn-close">Close</a>
+                    </div><!-- /.btns -->
+                </div><!-- /.entry-popup-text -->
+            </div><!-- /.entry-popup -->
+
+
+        </div><!-- /.entries -->
+    </div><!-- /.content -->
+</div><!-- /.main -->
+<!--#include file="ssi/footer.html" -->

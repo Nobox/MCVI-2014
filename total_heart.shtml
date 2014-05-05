@@ -1,0 +1,125 @@
+<!--#include file="ssi/header.html" -->
+<div class="slider slider-inner">
+    <ul class="slides">
+        <li class="slide">
+            <div class="slide-image">
+                <img src="css/images/temp/slide3.jpg" alt="" />
+            </div><!-- /.slide-image -->
+
+            <div class="slide-text slide-text-bottom">
+                <h2>Total<strong>Heart</strong></h2>
+            </div><!-- /.slide-text -->
+        </li><!-- /.slide -->
+    </ul><!-- /.slides -->
+
+    <div class="slider-controls">
+        <div class="slider-controls-inner">
+            <div class="paging"></div><!-- /.paging -->
+
+            <a href="#" class="prev">Prev Slide</a>
+            <a href="#" class="next">Next Slide</a>
+        </div><!-- /.slider-controls-inner -->
+    </div><!-- /.slider-controls -->
+
+</div><!-- /.slider -->
+
+<div class="main">
+    <div class="content">
+        <div class="article">
+            <div class="row">
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video1.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+
+                <div class="small-12 medium-9 columns">
+                    <div class="article-text">
+                        <div class="article-text-inner">
+                            <h5>Real stories. Total care. Complete success.</h5>
+                            <p>Success stories don’t just write themselves. They require a total team effort and a strong relationship between all involved. Which is why we have built our cardiac care around a total team approach. By doing so, we are able to produce great stories like these. Come, see us in action, and watch how our commitment to care worked for these amazing people.</p>
+                        </div><!-- /.article-text-inner -->
+                    </div><!-- /.article-text -->
+                </div><!-- /.medium-9 columns -->
+            </div><!-- /.row -->
+
+            <span class="article-separator"></span>
+        </div><!-- /.article -->
+
+        <div class="entries video-entries">
+            <div class="row">
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video2.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6>SUSAN SMITH</h6>
+                            <p>She entered major surgery. Dr. Cortelli delivered major results.</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video5.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6>MARK YOUNG</h6>
+                            <p>When a non-threatening heart condition turned threatening, our team caught and stopped it.</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video4.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6>JUSTIN IGUALADA</h6>
+                            <p>He wrestled alligators. Dr. O’Donnell wrestled with Justin’s multiple surgeries. Both won.</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+                <div class="small-12 medium-3 columns">
+                    <div class="entry">
+                        <div class="entry-image">
+                            <img src="css/images/temp/video3.jpg" alt="" />
+
+                            <div class="btns">
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                            </div><!-- /.btns -->
+                        </div><!-- /.entry-image -->
+
+                        <div class="entry-text">
+                            <h6>LOUIS ROCHEZ</h6>
+                            <p>When his heart slowed down, Dr. Perryman got him back up to speed.</p>
+                        </div><!-- /.entry-text -->
+                    </div><!-- /.entry -->
+                </div><!-- /.medium-3 columns -->
+            </div><!-- /.row -->
+        </div><!-- /.entries -->
+    </div><!-- /.content -->
+</div><!-- /.main -->
+<!--#include file="ssi/footer.html" -->
