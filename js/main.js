@@ -2,15 +2,6 @@
 
     $(document).ready(function() {
 
-//        $('.section-expertise').mouseenter(function() {
-//            $(this).css('background-image', 'url(css/images/section-expertise-up.jpg)');
-//        })
-//
-//        $('.section-expertise').mouseleave(function() {
-//            $(this).css('background-image', 'url(css/images/section-expertise.jpg)');
-//        })
-
-
         //Vars
         var $btnClose = $('.btn-close'),
                 $entry = $('.entry-image, .entry-text'),
@@ -54,25 +45,21 @@
             returnFocus: false
         });
 
-        //Slider image
-        $('.slide-image img').fullscreener();
-
-        //Slider
-        // $('.slider .slides').carouFredSel({
-        //     responsive: true,
-        //     auto: {
-        //         duration: 800
-        //     },
-        //     next: '.next',
-        //     prev: '.prev',
-        //     pagination: {
-        //         container: '.paging',
-        //         anchorBuilder: true
-        //     },
-        //     swipe: {
-        //         onTouch: true
-        //     }
-        // });
+        $('#home-slider').find('.slides').carouFredSel({
+            responsive: true,
+            auto: {
+                duration: 800
+            },
+            next: '.next',
+            prev: '.prev',
+            pagination: {
+                container: '.paging',
+                anchorBuilder: true
+            },
+            swipe: {
+                onTouch: true
+            }
+        });
 
         $entryPopup.css({
             left: ($(window).width() - $entryPopup.width()) / 2

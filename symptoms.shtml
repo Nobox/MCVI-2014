@@ -11,16 +11,6 @@
             </div><!-- /.slide-text -->
         </li><!-- /.slide -->
     </ul><!-- /.slides -->
-
-    <div class="slider-controls">
-        <div class="slider-controls-inner">
-            <div class="paging"></div><!-- /.paging -->
-
-            <a href="#" class="prev">Prev Slide</a>
-            <a href="#" class="next">Next Slide</a>
-        </div><!-- /.slider-controls-inner -->
-    </div><!-- /.slider-controls -->
-
 </div><!-- /.slider -->
 
 <div class="main">

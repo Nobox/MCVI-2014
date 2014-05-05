@@ -1,6 +1,6 @@
 
 <!--#include file="ssi/header.html" -->
-<div class="slider">
+<div id="home-slider" class="slider">
     <ul class="slides">
 
         <li class="slide">

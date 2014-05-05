@@ -128,11 +128,12 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 /* ==========================================================================
 	#Slider
 ========================================================================== */
-.slider { position: relative; z-index: 1; overflow: hidden; width: 100%; height: 400px; margin-top: 80px;  }
+.slider { position: relative; z-index: 1; overflow: hidden; width: 100%; margin-top: 80px; }
 .slides { list-style: none outside none; }
-.slide { position: relative; height: 400px; width: 100%; float: left; cursor: default;}
-.slide-image { height: 400px; }
+.slide { position: relative; width: 100%; float: left; cursor: default;}
+.slide-image img { display: block; margin: 0 auto; width: 100%; }
 .slide-text { position: absolute; top: 67px; margin: 0px auto; width: 420px; margin-left: -210px; text-align: center; }
+.no-opacity .slide-text { top: 30px; }
 .slide-text h2,
 .slide-text p { color: #fff; }
 
@@ -185,8 +186,11 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
 
 .section-expertise .bg_doctores{ position: absolute; background-image: url(images/section-expertise-doctores.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
 .section-expertise .bg_doctores_up{ position: absolute; background-image: url(images/section-expertise-doctores-up.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; opacity: 0; }
+.no-opacity .section-expertise .bg_doctores_up{ display: none; }
 .section-expertise:hover .bg_doctores{ opacity: 0; }
+.no-opacity .section-expertise:hover .bg_doctores{ display: none; }
 .section-expertise:hover .bg_doctores_up{ opacity: 1; }
+.no-opacity .section-expertise:hover .bg_doctores_up { display: block; }
 .section-expertise .section-text { padding-top: 6px; }
 .section-expertise h2 { padding: 7px 0 22px; }
 .section-expertise .btns { padding-top: 44px; }
@@ -495,7 +499,8 @@ h6 { font-size: 16px; line-height: 1.25; font-weight: bold; }
   .slider { margin-top: 0; }
   .slider,
   .slide-image { height: 325px; }
-	.slide-text { width: 100%; padding: 0 50px; margin: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; left: 0; top: 61px; }
+  .slide-text { width: 100%; padding: 0 50px; margin: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; left: 0; top: 61px; }
+	.no-opacity .slide-text { top: 30px; }
 	.slide-text .lead,
 	.slide-text p { font-size: 13px; line-height: 1.15; }
 	.slide-text .lead { padding-bottom: 2px; }
