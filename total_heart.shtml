@@ -3,7 +3,12 @@
     <ul class="slides">
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide3.jpg" alt="" width="1680" height="400"/>
+                <!--[if lt IE 9]>
+                <img src="css/images/temp/slide3.jpg"/>
+                <![endif]-->
+                <!--[if gte IE 9]><!-->
+                <img data-interchange="[css/images/temp/slide3.jpg, (default)], [css/images/temp/TotalHeart_iPhone.jpg, (small)]">
+                <!--<![endif]-->
             </div><!-- /.slide-image -->
 
             <div class="slide-text slide-text-bottom">
@@ -50,14 +55,16 @@
                             <img src="css/images/temp/video2.jpg" alt="" />
 
                             <div class="btns">
-                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play-small"></a>
                             </div><!-- /.btns -->
                         </div><!-- /.entry-image -->
 
                         <div class="entry-text">
+                            <span></span>
                             <h6>SUSAN SMITH</h6>
                             <p>She entered major surgery. Dr. Cortelli delivered major results.</p>
                         </div><!-- /.entry-text -->
+                        <p class="ghosttext">She entered major surgery. Dr. Cortelli delivered major results.</p>
                     </div><!-- /.entry -->
                 </div><!-- /.medium-3 columns -->
                 <div class="small-12 medium-3 columns">
@@ -66,14 +73,16 @@
                             <img src="css/images/temp/video5.jpg" alt="" />
 
                             <div class="btns">
-                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play-small"></a>
                             </div><!-- /.btns -->
                         </div><!-- /.entry-image -->
 
                         <div class="entry-text">
+                            <span></span>
                             <h6>MARK YOUNG</h6>
                             <p>When a non-threatening heart condition turned threatening, our team caught and stopped it.</p>
                         </div><!-- /.entry-text -->
+                        <p class="ghosttext">When a non-threatening heart condition turned threatening, our team caught and stopped it.</p>
                     </div><!-- /.entry -->
                 </div><!-- /.medium-3 columns -->
                 <div class="small-12 medium-3 columns">
@@ -82,14 +91,16 @@
                             <img src="css/images/temp/video4.jpg" alt="" />
 
                             <div class="btns">
-                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play-small"></a>
                             </div><!-- /.btns -->
                         </div><!-- /.entry-image -->
 
                         <div class="entry-text">
+                            <span></span>
                             <h6>JUSTIN IGUALADA</h6>
                             <p>He wrestled alligators. Dr. O’Donnell wrestled with Justin’s multiple surgeries. Both won.</p>
                         </div><!-- /.entry-text -->
+                        <p class="ghosttext">He wrestled alligators. Dr. O’Donnell wrestled with Justin’s multiple surgeries. Both won.</p>
                     </div><!-- /.entry -->
                 </div><!-- /.medium-3 columns -->
                 <div class="small-12 medium-3 columns">
@@ -98,14 +109,16 @@
                             <img src="css/images/temp/video3.jpg" alt="" />
 
                             <div class="btns">
-                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play-small cboxElement"></a>
+                                <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play-small"></a>
                             </div><!-- /.btns -->
                         </div><!-- /.entry-image -->
 
                         <div class="entry-text">
+                            <span></span>
                             <h6>LOUIS ROCHEZ</h6>
                             <p>When his heart slowed down, Dr. Perryman got him back up to speed.</p>
                         </div><!-- /.entry-text -->
+                        <p class="ghosttext">When his heart slowed down, Dr. Perryman got him back up to speed.</p>
                     </div><!-- /.entry -->
                 </div><!-- /.medium-3 columns -->
             </div><!-- /.row -->

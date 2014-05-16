@@ -3,7 +3,8 @@
     <ul class="slides">
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide7.jpg" alt="" width="1279" height="400" />
+                <img class="normal" src="css/images/temp/slide7.jpg" />
+                <img class="normal" src="css/images/temp/TotalHeart_iPhone.jpg" />
             </div><!-- /.slide-image -->
 
             <div class="slide-text slide-text-bottom">
@@ -53,6 +54,13 @@
                         <p>Chest pain is a leading indicator of potential heart issues. Chest pain is any kind of discomfort or pain that can be felt anywhere along the front of your body, as well as around your neck and upper <br />abdomen.   </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>Chest pain is a leading indicator of potential heart issues. Chest pain is any kind of discomfort or pain that can be felt anywhere along the front of your body, as well as around your neck and upper abdomen. The most common types of chest pain range from tightness to pressure and general discomfort. While chest pain can be caused by a number of factors and many have nothing to do with cardiac issues, you should not take any risks if you experience it. In worst-case scenarios, chest pain can be an immediate precursor to a serious heart issue, such as a heart attack or stroke. </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-2">
@@ -60,6 +68,14 @@
                         <p>Chest pressure is a leading indicator of potential heart issues. Chest pressure is any kind of discomfort or pain that can be felt anywhere along the front of your body, including your neck and upper <br />abdomen. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>Chest pressure is a leading indicator of potential heart issues. Chest pressure is any kind of discomfort or pain that can be felt anywhere along the front of your body, including your neck and upper abdomen. While chest pressure can be caused by a number of different factors and many have nothing to do with cardiac issues, you should not take any risks if you are experiencing it. In worst-case scenarios, chest pain can be an immediate precursor to a serious heart issue, such as a heart attack or stroke. </p>
+
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 
@@ -70,6 +86,14 @@
                         <p>While shortness of breath has many different causes, it’s also associated with heart issues. These issues include heart attacks, congenital heart disease, heart rhythm disturbances and heart <br />failure. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>While shortness of breath has many different causes, it’s also associated with heart issues. These issues include heart attacks, congenital heart disease, heart rhythm disturbances and heart failure. When these conditions cause shortness of breath, it’s often because your heart is unable to provide enough oxygen to body parts such as your brain, muscles or other body organs. </p>
+
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-4">
@@ -77,6 +101,14 @@
                         <p>When it feels like your heart is pounding or racing, those sensations or feelings are referred to as palpitations. Normally palpitations are not serious and can be the result of a number of everyday causes, ranging from exercise to caffeine.  </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>When it feels like your heart is pounding or racing, those sensations or feelings are referred to as palpitations. Normally palpitations are not serious and can be the result of a number of everyday causes, ranging from exercise to caffeine. On occasion, however, they can be a sign of abnormal heart rhythm brought about by issues affecting the heart.</p>
+
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 
@@ -87,6 +119,13 @@
                         <p>Cold extremities occur when circulation issues, including constricted or slightly obstructed blood vessels, cause a reduction of blood passage in the skin. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>Cold extremities occur when circulation issues, including constricted or slightly obstructed blood vessels, cause a reduction of blood passage in the skin. In extreme cases, this feeling may be accompanied by changes in skin color and a throbbing or buzzing feeling. While there are many different non-cardiac reasons for the feeling of cool extremities, they can be an indicator of underlying heart issues, such as coronary heart disease.</p>
+
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-6">
@@ -94,6 +133,13 @@
                         <p>Numb extremities, as well as a tingling feeling in those same areas, are characterized by abnormal losses of feeling, most often in the hands, arms, legs and feet. There are a host of different reasons why you could be experiencing numb extremities. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>Numb extremities, as well as a tingling feeling in those same areas, are characterized by abnormal losses of feeling, most often in the hands, arms, legs and feet. There are a host of different reasons why you could be experiencing numb extremities. If a heart issue causes it, the most common reason is due to a hardening of the arteries, which leads to a lack of proper blood flow to these areas. This can be an early sign of greater future heart problems, including a stroke.</p>
+
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div>
             <div class="row collapse">
@@ -103,6 +149,12 @@
                         <p>High blood sugar levels create an elevated risk of heart issues for anyone experiencing them over long periods of time, whether they have diabetes or not. </p>
                         <a href="#" class="more">more</a> </div>
                     <!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>High blood sugar levels create an elevated risk of heart issues for anyone experiencing them over long periods of time, whether they have diabetes or not. When left untreated, high blood sugar can slowly damage blood vessels throughout the body, leading to a host of major potential heart complications. For people with diabetes, the risk of heart disease is nearly twice that of a person without diabetes. </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+                    </div>
                 </div>
                 <!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
@@ -111,6 +163,12 @@
                         <p>Vision changes such as blurred vision, seeing “halos” and having blind spots can be caused by a large number of conditions. They can also be indicators of underlying heart issues. </p>
                         <a href="#" class="more">more</a> </div>
                     <!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>Vision changes such as blurred vision, seeing “halos” and having blind spots can be caused by a large number of conditions. They can also be indicators of underlying heart issues. These potential heart issues include strokes, blood loss or restriction of blood flow to parts of the brain and an inflammation of an artery in the brain that supplies blood to the eyes.</p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+                    </div>
                 </div>
                 <!-- /.medium-6 columns -->
             </div>
@@ -121,6 +179,12 @@
                         <p>Difficulties in speech, including slurred speech, can be directly correlated to serious heart issues such as a stroke. These difficulties can also be attributed to blood loss to the muscles that control <br />speech. </p>
                         <a href="#" class="more">more</a></div>
                     <!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>Difficulties in speech, including slurred speech, can be directly correlated to serious heart issues such as a stroke. These difficulties can also be attributed to blood loss to the muscles that control speech. If you’re experiencing loss in speech control that you have no explanation for, please call 911 immediately. Do not delay. </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a></p>
+                    </div>
                 </div>
                 <!-- /.medium-6 columns --><!-- /.medium-6 columns -->
             </div>

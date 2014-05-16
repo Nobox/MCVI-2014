@@ -3,7 +3,12 @@
     <ul class="slides">
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide5.jpg" alt="" width="1680" height="400"/>
+                <!--[if lt IE 9]>
+                <img src="css/images/temp/slide5.jpg"/>
+                <![endif]-->
+                <!--[if gte IE 9]><!-->
+                <img data-interchange="[css/images/temp/slide5.jpg, (default)], [css/images/temp/TotalCare_iPhone.jpg, (small)]">
+                <!--<![endif]-->
             </div><!-- /.slide-image -->
 
             <div class="slide-text slide-text-bottom">
@@ -51,6 +56,13 @@
                         <p>Diabetes is a life-long condition in which there are constantly high levels of blood sugar (glucose) in the blood stream. While very manageable, if left untreated, diabetes seriously increases the risk of heart disease and stroke. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>Diabetes is a life-long condition in which there are constantly high levels of blood sugar (glucose) in the blood stream. While very manageable, if left untreated, diabetes seriously increases the risk of heart disease and stroke. There are three types of diabetes: Type 1, Type 2 (the most common, over 90% of all cases), and gestational diabetes (affects pregnant women often in their last term, and is not permanent). Around 25 million Americans are currently affected by diabetes. Symptoms include increased thirst and urination, extreme fatigue, weight loss, constant hunger, blurred vision and slow healing of wounds.  </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-2">
@@ -58,6 +70,13 @@
                         <p>High blood pressure, also known as hypertension, is when your normal blood pressure readings consistently rise to unhealthy, elevated <br />levels. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>High blood pressure, also known as hypertension, is when your normal blood pressure readings consistently rise to unhealthy, elevated levels. Your blood pressure is determined by two measurements: systolic, which measures when your heart muscle is contracting, and diastolic, which measures the heart muscles between beats. A healthy reading is within the range of 100-140mmHg systolic (top reading) and 60-90mmHg diastolic (bottom reading) while at rest. High blood pressure begins with any reading of 140/90 mmHg or more. High blood pressure puts a major strain on the heart, and can easily lead to a stroke, hypertensive heart disease, coronary artery disease, aneurysms, aneurysms of the arteries, peripheral arterial disease and a host of other heart conditions if not properly treated.  </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 
@@ -68,6 +87,13 @@
                         <p>Hypertension, also known as high blood pressure, is when your normal blood pressure readings consistently rise to unhealthy, elevated <br />levels. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>Hypertension, also known as high blood pressure, is when your normal blood pressure readings consistently rise to unhealthy, elevated levels. Your blood pressure is determined by two measurements: systolic, which measures when your heart muscle is contracting, and diastolic, which measures the heart muscles between beats. A healthy reading is within the range of 100-140mmHg systolic (top reading) and 60-90mmHg diastolic (bottom reading) while at rest. High blood pressure begins with any reading of 140/90 mmHg or more. Hypertension creates a major strain on the heart, and can easily lead to a stroke, hypertensive heart disease, coronary artery disease, aneurysms, aneurysms of the arteries, peripheral arterial disease and a host of other heart conditions if not properly treated. </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-4">
@@ -75,6 +101,13 @@
                         <p>A heart attack, medically known as a myocardial infarction, occurs when proper blood flow to the heart is blocked for a long enough period of time for the heart muscle to become damaged, or even die, due to not receiving enough oxygen. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>A heart attack, medically known as a myocardial infarction, occurs when proper blood flow to the heart is blocked for a long enough period of time for the heart muscle to become damaged, or even die, due to not receiving enough oxygen. This event is referred to as “acute” because it happens suddenly and is very serious in nature. Symptoms of a heart attack include sudden chest pain, pain in the left arm or left side of the neck, anxiety, abnormal heartbeats, shortness of breath, sweating, indigestion, fatigue, nausea and vomiting.</p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 
@@ -85,6 +118,13 @@
                         <p>Myocardial Infarction is the medical term for a heart attack. Simply put, it’s what happens when the oxygen-rich blood flow to your heart is cut off long enough to damage, it not outright kill, that part of your heart muscle. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>Myocardial Infarction is the medical term for a heart attack. Simply put, it’s what happens when the oxygen-rich blood flow to your heart is cut off long enough to damage, it not outright kill, that part of your heart muscle. Symptoms of a myocardial infarction include sudden chest pain, pain in the left arm or left side of the neck, anxiety, abnormal heartbeats, shortness of breath, sweating, indigestion, fatigue, nausea and vomiting.</p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-6">
@@ -92,6 +132,13 @@
                         <p>Similar in nature to what happens to the heart during a heart attack, a stroke occurs when blood flow to the brain is blocked or restricted, cutting off oxygen to brain cells. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>Similar in nature to what happens to the heart during a heart attack, a stroke occurs when blood flow to the brain is blocked or restricted, cutting off oxygen to brain cells. This results in permanent neurological damage and the death of those cells. There are two types of strokes: hemorrhagic strokes, which occur when blood flow to the brain is blocked by blood clots; and ischemic strokes, which are caused by clogged arteries primarily due to fat or cholesterol build-up on the artery walls. Common stroke symptoms include sudden numbness, loss of movement, weakness or tingling in your arm, leg or face, usually on one side; sudden trouble with speech, vision, or balance; a sudden severe headache and sudden trouble understanding simple statements. Strokes are the second-leading cause of death worldwide. </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 
@@ -101,14 +148,32 @@
                         <h6>CVA (or Stroke)</h6>
                         <p>A cerebrovascular accident, commonly called a CVA, is another term for a stroke. Similar in nature to what happens to the heart during a heart attack, a CVA occurs when blood flow to the brain is blocked or restricted, cutting off oxygen to brain cells. </p>
                         <a href="#" class="more">more</a>
+
+
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>A cerebrovascular accident, commonly called a CVA, is another term for a stroke. Similar in nature to what happens to the heart during a heart attack, a CVA occurs when blood flow to the brain is blocked or restricted, cutting off oxygen to brain cells. This results in permanent neurological damage and the death of those cells. There are two types of strokes: hemorrhagic strokes, which occur when blood flow to the brain is blocked by blood clots; and ischemic strokes, which are caused by clogged arteries primarily due to fat or cholesterol build-up on the artery walls. Common CVA symptoms include sudden numbness, loss of movement, weakness or tingling in your arm, leg or face, usually on one side; sudden trouble with speech, vision or balance; a sudden severe headache and sudden trouble understanding simple statements. Cerebrovascular accidents are the second-leading cause of death worldwide.</p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-8">
                         <h6>Congestive Heart Failure</h6>
                         <p>Congestive heart failure is a condition in which the heart is unable to pump enough blood through the entire body, causing blood or fluid to back up into areas such as the lungs, liver, gastrointestinal tract, arms and legs. </p>
                         <a href="#" class="more">more</a>
+
                     </div><!-- /.entry entry-text -->
+
+
+                    <div class="mobile-display">
+                        <p>Congestive heart failure is a condition in which the heart is unable to pump enough blood through the entire body, causing blood or fluid to back up into areas such as the lungs, liver, gastrointestinal tract, arms and legs. This type of heart failure is often a chronic, long-term condition, although it can occur suddenly. It may involve only one or both sides of the heart. There are two types of heart failure that cause this condition: systolic heart failure, which occurs when the heart cannot properly pump blood out of the heart, and diastolic heart failure, which occurs when the heart muscles are stiff and do not fill up with blood easily.</p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 
@@ -119,6 +184,12 @@
                         <p>An aortic aneurysm is an abnormal widening or ballooning of a portion of an artery due to a weakness in the wall of the blood vessel. This condition develops slowly over years, and is often detected when imaging tests are done for other reasons. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+                    <div class="mobile-display">
+                        <p>An aortic aneurysm is an abnormal widening or ballooning of a portion of an artery due to a weakness in the wall of the blood vessel. This condition develops slowly over years, and is often detected when imaging tests are done for other reasons. Most patients show no symptoms until the aneurysm begins to leak, rupture, grow quickly or expand. Heart disease, high blood pressure and high blood sugar are common causes of aortic aneurysms. Major surgery is often required to correct an aortic aneurysm.</p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
                 <div class="small-12 medium-6 columns">
                     <div class="entry text-entry" rel="over-10">
@@ -126,6 +197,13 @@
                         <p>Peripheral vascular disease is another name for peripheral artery disease. It’s a condition of the blood vessels that leads to a narrowing and hardening of the arteries that supply blood to the legs and <br />feet. </p>
                         <a href="#" class="more">more</a>
                     </div><!-- /.entry entry-text -->
+
+                    <div class="mobile-display">
+                        <p>Peripheral vascular disease is another name for peripheral artery disease. It’s a condition of the blood vessels that leads to a narrowing and hardening of the arteries that supply blood to the legs and feet. The narrowing occurs due to fatty materials called plaque that builds up on the artery walls. This narrowing can lead to a decrease in blood flow, which results in damage to nerves and other tissues. Oftentimes, this condition is a result of heart disease or high blood pressure.  Lifestyle changes and prescription medications are often enough to combat this condition, although in severe cases, surgery can be required.  </p>
+                        <p>IF YOU BELIEVE YOU’RE EXPERIENCING A SERIOUS MEDICAL ISSUE, DO NOT DELAY, CALL 911 IMMEDIATELY. </p>
+                        <p>If you’d like to take our Risk Assessment to better understand the health of your heart, click <a href="https://apps.evaliahealth.com/v2/e888933d-9f2c-11e3-ac72-2e5786064f1a" class="btn">Here</a> </p>
+                        <p>To find a Memorial doctor, please call 855-400-6284. </p>
+                    </div>
                 </div><!-- /.medium-6 columns -->
             </div><!-- /.row -->
 

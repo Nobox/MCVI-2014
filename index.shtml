@@ -1,11 +1,41 @@
 <!--#include file="ssi/header.html" -->
 
-<div id="home-slider" class="slider">
-    <ul class="slides">
+<div class="slider show-for-small-only">
+    <div class="slide mobile">
+        <div class="slide-image">
+            <!--[if lt IE 9]>
+            <img src="css/images/temp/slide1.jpg"/>
+            <![endif]-->
+            <!--[if gte IE 9]><!-->
+            <img data-interchange="[css/images/temp/slide1.jpg, (default)], [css/images/temp/Home_1_iPhone.jpg, (small)]">
+            <!--<![endif]-->
+        </div><!-- /.slide-image -->
 
-        <li class="slide">
+        <div class="slide-text">
+            <p class="lead">Follow your Heart to</p>
+            <h2>Total<strong>HeartCare</strong></h2>
+            <p>And find out how our team of experts covers every aspect of your heart.</p>
+
+            <div class="btns show-for-medium-up">
+                <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
+                <span>Watch TotalHeart Care in Action</span>
+            </div>
+
+            <!-- /.btns -->
+        </div><!-- /.slide-text -->
+
+        <div class="btnstwo">
+            <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
+            <span>Watch TotalHeart Care in Action</span>
+        </div>
+    </div><!-- /.slide -->
+</div>
+
+<div id="home-slider" class="slider show-for-medium-up">
+    <ul class="slides">
+        <li class="slide mobile">
             <div class="slide-image">
-                <img src="css/images/temp/slide1.jpg" alt="" width="1680" height="400"/>
+                <img class="normal" src="css/images/temp/slide1.jpg" alt="" width="1680" height="400">
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -14,15 +44,17 @@
                 <p>And find out how our team of experts covers every aspect of your heart.</p>
 
                 <div class="btns">
-                    <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play"></a>
+                    <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
                     <span>Watch TotalHeart Care in Action</span>
-                </div><!-- /.btns -->
+                </div>
+
+                <!-- /.btns -->
             </div><!-- /.slide-text -->
         </li><!-- /.slide -->
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide2.jpg" alt="" width="1680" height="400"/>
+                <img class="normal" src="css/images/temp/slide2.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -30,7 +62,7 @@
                 <p>Dedicated. Diligent. Diverse. And totally about teamwork. Meet the specialists behind our award-winning cardiac care.</p>
 
                 <div class="btns">
-                    <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play"></a>
+                    <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play"></a>
                     <span>Meet Our Experts</span>
                 </div><!-- /.btns -->
             </div><!-- /.slide-text -->
@@ -38,7 +70,7 @@
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide3.jpg" alt="" width="1680" height="400"/>
+                <img class="normal" src="css/images/temp/slide3.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -46,7 +78,7 @@
                 <p>When heart conditions arise, we are the team that can diagnose and treat them all.</p>
 
                 <div class="btns">
-                    <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play"></a>
+                    <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play"></a>
                     <span>Explore Heart Conditions</span>
                 </div><!-- /.btns -->
             </div><!-- /.slide-text -->
@@ -54,7 +86,7 @@
 
         <li class="slide">
             <div class="slide-image">
-                <img src="css/images/temp/slide4.jpg" alt="" width="1680" height="400"/>
+                <img class="normal" src="css/images/temp/slide4.jpg" alt="" width="1680" height="400"/>
             </div><!-- /.slide-image -->
 
             <div class="slide-text">
@@ -62,7 +94,7 @@
                 <p>What it takes. That’s what we offer. Explore our comprehensive list of services and programs for treating heart conditions.</p>
 
                 <div class="btns">
-                    <a href="//www.youtube.com/embed/3x2ABSAMVno?rel=0" class="btn btn-play"></a>
+                    <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="http://www.youtube.com/watch?v=CGyEd0aKWZE" class="btn btn-play"></a>
                     <span>See Our Services</span>
                 </div><!-- /.btns -->
             </div><!-- /.slide-text -->
@@ -79,11 +111,6 @@
     </div><!-- /.slider-controls -->
 
 </div><!-- /.slider -->
-
-
-
-
-
 
 
 <div class="main">
@@ -133,3 +160,18 @@
     </div><!-- /.sections -->
 </div><!-- /.main -->
 <!--#include file="ssi/footer.html" -->
+<script type="text/javascript">
+
+    $(document).on('replace', 'img', function (e, new_path, original_path) {
+      console.log(e.currentTarget, new_path, original_path);
+    });
+
+    $(document).ready(function() {
+        if (Modernizr.touch){
+            $('.btnstwo span').click(function(event) {
+                window.open('https://www.youtube.com/watch?v=whXYV05p3_Y', "_self")
+            });
+        }
+    });
+
+</script>
