@@ -794,24 +794,24 @@ and (orientation: portrait) {
 }
 
 @media only screen and (min-width: 64.063em) {
-    .slide-text {
-
+    .slide .shell {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
     }
-    .slide-text .shell {
-
-    }
-
-
-    .section .shell { padding-top: 93px; }
 
     .slide-text {
-        left: 50px;
+        left: 0;
         margin-left: 0;
     }
 
-    .section-expertise .bg_doctores{ position: absolute; pointer-events: none; background-image: url(images/section-expertise-doctores.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
-    .section-expertise .bg_doctores{ position: absolute; pointer-events: none; background-image: url(images/section-expertise-doctores.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
-    .section-expertise .bg_doctores_up{ position: absolute; pointer-events: none; background-image: url(images/section-expertise-doctores-up.png); background-position: center; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; opacity: 0; }
+    .section .shell { padding-top: 93px; }
+
+    .section-expertise .bg_doctores{ position: absolute; pointer-events: none; background-image: url(images/section-expertise-doctores.png); background-position: center; background-repeat: no-repeat; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
+    .section-expertise .bg_doctores{ position: absolute; pointer-events: none; background-image: url(images/section-expertise-doctores.png); background-position: center; background-repeat: no-repeat; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; }
+    .section-expertise .bg_doctores_up{ position: absolute; pointer-events: none; background-image: url(images/section-expertise-doctores-up.png); background-position: center; background-repeat: no-repeat; width: 100%; height: 400px; -webkit-transition: opacity 0.3s ease-in-out; -moz-transition: opacity 0.3s ease-in-out; -o-transition: opacity 0.3s ease-in-out; opacity: 0; }
     .no-opacity .section-expertise .bg_doctores_up{ display: none; }
 
     .section-expertise:hover .bg_doctores{ opacity: 0; }
@@ -822,4 +822,17 @@ and (orientation: portrait) {
     .entries .entry-text span{display: none;}
 
     .section-commitment { background-image: url(images/section-commitment.jpg); background-position: right 0; }
+}
+
+@media only screen and (min-width: 1440px) {
+    .slide-image {
+        height: auto;
+    }
+
+    .slide-image img {
+        position: static;
+        margin-left: 0;
+        width: 100%;
+        height: auto;
+    }
 }

@@ -7,9 +7,11 @@
                 <img class="normal" src="css/images/temp/TotalHeart_iPhone.jpg" />
             </div><!-- /.slide-image -->
 
-            <div class="slide-text slide-text-bottom">
-                <h2>Total<strong>Foresight</strong></h2>
-            </div><!-- /.slide-text -->
+            <div class="shell">
+                <div class="slide-text slide-text-bottom">
+                    <h2>Total<strong>Foresight</strong></h2>
+                </div><!-- /.slide-text -->
+            </div><!-- ./shell -->
         </li><!-- /.slide -->
     </ul><!-- /.slides -->
 </div><!-- /.slider -->

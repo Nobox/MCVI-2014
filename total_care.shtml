@@ -11,9 +11,11 @@
                 <!--<![endif]-->
             </div><!-- /.slide-image -->
 
-            <div class="slide-text slide-text-bottom">
-                <h2>Total<strong>Care</strong></h2>
-            </div><!-- /.slide-text -->
+            <div class="shell">
+                <div class="slide-text slide-text-bottom">
+                    <h2>Total<strong>Care</strong></h2>
+                </div><!-- /.slide-text -->
+            </div><!-- ./shell -->
         </li><!-- /.slide -->
     </ul><!-- /.slides -->
 </div><!-- /.slider -->
