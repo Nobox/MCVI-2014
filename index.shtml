@@ -11,18 +11,19 @@
             <!--<![endif]-->
         </div><!-- /.slide-image -->
 
-        <div class="slide-text">
-            <p class="lead">Follow your Heart to</p>
-            <h2>Total<strong>HeartCare</strong></h2>
-            <p>And find out how our team of experts covers every aspect of your heart.</p>
+        <div class="shell">
+            <div class="slide-text">
+                <p class="lead">Follow your Heart to</p>
+                <h2>Total<strong>HeartCare</strong></h2>
+                <p>And find out how our team of experts covers every aspect of your heart.</p>
 
-            <div class="btns show-for-medium-up">
-                <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
-                <span>Watch TotalHeart Care in Action</span>
-            </div>
-
-            <!-- /.btns -->
-        </div><!-- /.slide-text -->
+                <div class="btns show-for-medium-up">
+                    <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
+                    <span>Watch TotalHeart Care in Action</span>
+                </div>
+                <!-- /.btns -->
+            </div><!-- /.slide-text -->
+        </div><!-- /.shell -->
 
         <div class="btnstwo">
             <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
@@ -38,18 +39,20 @@
                 <img class="normal" src="css/images/temp/slide1.jpg" alt="" width="1680" height="400">
             </div><!-- /.slide-image -->
 
-            <div class="slide-text">
-                <p class="lead">Follow your Heart to</p>
-                <h2>Total<strong>HeartCare</strong></h2>
-                <p>And find out how our team of experts covers every aspect of your heart.</p>
+            <div class="shell">
+                <div class="slide-text">
+                    <p class="lead">Follow your Heart to</p>
+                    <h2>Total<strong>HeartCare</strong></h2>
+                    <p>And find out how our team of experts covers every aspect of your heart.</p>
 
-                <div class="btns">
-                    <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
-                    <span>Watch TotalHeart Care in Action</span>
-                </div>
+                    <div class="btns">
+                        <a href="//www.youtube.com/embed/3bEtJgnd86M?rel=0" mobile="https://www.youtube.com/watch?v=whXYV05p3_Y" class="btn btn-play"></a>
+                        <span>Watch TotalHeart Care in Action</span>
+                    </div>
 
-                <!-- /.btns -->
-            </div><!-- /.slide-text -->
+                    <!-- /.btns -->
+                </div><!-- /.slide-text -->
+            </div><!-- /.shell -->
         </li><!-- /.slide -->
 
         <li class="slide">

@@ -96,12 +96,6 @@ var _orientatio = 0;
             left: ($(window).width() - $entryPopup.width()) / 2
         });
 
-        if (!Modernizr.touch) {
-
-                $('.slide-text').css('right', (($('.slide-text').width()) / 2) + (($(window).width() - 960) / 2));
-                $('.slide-text h2, .slide-text p').css('text-align', 'left');
-
-        }
         //Popups
         entriesToggle();
 
@@ -319,10 +313,6 @@ var _orientatio = 0;
 
 
 $(window).resize(function() {
-    if (!Modernizr.touch) {
-            $('.slide-text').css('right', (($('.slide-text').width()) / 2) + (($(window).width() - 960) / 2));
-            $('.slide-text h2, .slide-text p').css('text-align', 'left');
-    }
     checkIsSmall();
 });
 
